@@ -145,7 +145,7 @@ h3::after {
     height: 2px;
     background-color: #333;
     transition: width 0.3s ease, left 0.3s ease;
-    transform: translateX(-50%);
+    transform: translateX(0%);
 }
 
 h3:hover::after {
